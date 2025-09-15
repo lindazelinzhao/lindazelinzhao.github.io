@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi, I am Linda! My Chinese name is Zelin Zhao(赵泽琳). I graduated from New York University (NYU) with majors in psychology and math. During my time at NYU, I worked as a research assistant in the Winawer Lab (https://wp.nyu.edu/winawerlab/), where I focused on linking functionally defined visual maps with underlying anatomical structures and studying the neural basis of visual crowding.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am now a post-bac research assistant in Frank Tong’s lab (http://www.psy.vanderbilt.edu/tonglab/web/Home.html) at Vanderbilt University. I am generally interested in exploring the relationship between brain structure, function, and human behavior using psychophysics, fMRI, and computational modeling. Recently, my research interests have centered on understanding the neurocomputational basis of human face recognition and developing deep learning networks as potential models of human visual performance.
+
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
 A data-driven personal website
 ======
